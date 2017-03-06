@@ -28,3 +28,4 @@
 ## Other Tools/Technologies
 
 * AI
+* [Garbage Collection](garbage-collection/Garbage-Collection.md)
